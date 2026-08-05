@@ -57,4 +57,5 @@ Para a camada de visualização, foi desenvolvida uma aplicação web em Python 
         Por Localização: Distribuição geográfica de clientes e volume financeiro por região.
 
 
-<img width="1890" height="779" alt="image" src="https://github.com/user-attachments/assets/c8744ed4-3b41-4004-9f7f-37bec544ee30" />
+<img width="1857" height="697" alt="Screenshot 2026-08-04 225329" src="https://github.com/user-attachments/assets/af13e959-769b-4e83-b02e-0bd46493c203" />
+
